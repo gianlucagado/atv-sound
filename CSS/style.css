@@ -1,0 +1,19 @@
+header nav ul li a{
+    color: black;
+    text-decoration: none;
+    
+}
+header nav{
+    display: flex;
+}
+
+header nav ul{
+    display: flex;
+}
+section.porra h1{
+    font-size: 50px;
+    
+}
+section.porra h1 p img{
+    display: flex;
+}
