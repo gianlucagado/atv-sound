@@ -1,19 +1,16 @@
-header nav ul li a{
-    color: black;
-    text-decoration: none;
-    
+header div{
+    margin: 0 100px 0 100px;
+
 }
 header nav{
     display: flex;
+
+}
+header ul li a{
+    padding: 0 35vw 0 0;
 }
 
-header nav ul{
-    display: flex;
-}
-section.porra h1{
-    font-size: 50px;
-    
-}
-section.porra h1 p img{
-    display: flex;
+#borda{
+   border-top: 1px solid black;
+
 }
